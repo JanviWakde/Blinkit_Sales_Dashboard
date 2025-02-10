@@ -1,4 +1,4 @@
-# Blinkit_Sales_Dashboard
+# Blinkit Sales Dashboard
 
 ## Overview
 The Blinkit Sales Dashboard is a Power BI project designed to analyze and visualize sales performance data for Blinkit, an online grocery delivery service. The dashboard provides insights into total sales, average sales, number of items sold, customer ratings, fat content distribution, and outlet performance across different categories.
